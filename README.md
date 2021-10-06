@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src="page.png" width="100%">
+  <img alt="Ecoleta" src="https://raw.githubusercontent.com/FilipeLN/Ecoleta01/main/Github/page.png" width="100%">
 
 </p>
 
