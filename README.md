@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src="github/logo.svg" width="220px" />
+    <img alt="Ecoleta" title="Ecoleta" src=".github/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src="github/page.png" width="100%">
+  <img alt="Ecoleta" src=".github/page.png" width="100%">
 
 </p>
 
